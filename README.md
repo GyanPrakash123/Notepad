@@ -1,4 +1,4 @@
-# personal_notebook
+# Notepad
 
 A new Flutter project.
 
